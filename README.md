@@ -4,6 +4,7 @@
 - 😄 Pronomes: ela/dela
 - 🌱 Iniciante aprendendo JavaScript
 - ⚡ Futura dev
+- 🔮 Sinto que o futuro me aguarda com uma promessa de descobertas emocionantes. Estou ansiosa para enfrentar os desafios que virão, abraçar as inovações que moldarão nosso amanhã e contribuir para um mundo impulsionado pela tecnologia. Cada linha de código que escrevo, cada problema que resolvo e cada ideia que transformo em realidade são passos em direção a esse futuro empolgante.
 
 <div>
   <a href="https://github.com/rafaellecriistine">
